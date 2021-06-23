@@ -1,20 +1,13 @@
 ###########################################################
-# File: Assignment #1 Question 8
-# Name: Jesus Sebastian Aviles
-# REDID: 823931557
-# Class: CS574 Fall 2020
+# File: AES_128.py (Source code)                          #
+# Author: Jesus Sebastian Aviles                          #
 ###########################################################
 
 '''
-I am new to pyhton and I was only able to get the encryption for AES working but I tested multiple times against various 
-codes and keys of length 16 and my output matches the online calculators each time. 
-
 The demofile.txt is where the plaintext resides before encryption and it will be overriden after encryption takes place.
 
 User will be prompted to enter a 16 character key which will be used for encryption.
 '''
-
-
 import codecs, binascii, sys
 
 def encryptFile(file_reference, encrypkey):

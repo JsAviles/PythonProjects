@@ -1,8 +1,6 @@
 ###########################################################
-# File: Assignment #2 Question 7
-# Name: Jesus Sebastian Aviles
-# REDID: 823931557
-# Class: CS574 Fall 2020
+# File: RSA_Encryption.py (Source code)                   #
+# Author: Jesus Sebastian Aviles                          #
 ###########################################################
 
 #Prime Check function
