@@ -1,8 +1,6 @@
 ###########################################################
-# File: Assignment #1 Question 1
-# Name: Jesus Sebastian Aviles
-# REDID: 823931557
-# Class: CS560 Spring 2021
+# File: Merge sort vs Insertion sort speed comparison     #
+# Name: Jesus Sebastian Aviles                            #
 ###########################################################
 
 import random, time
