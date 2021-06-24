@@ -6,3 +6,5 @@
 2. [RSA Encryption](https://github.com/JsAviles/PythonProjects/tree/master/RSA_Encryption)
 3. [Design Interface Lab](https://github.com/JsAviles/PythonProjects/tree/master/DesignInterfaceLab)
 4. [Sorting Algorithms](https://github.com/JsAviles/PythonProjects/tree/master/SortingAlgorithms)
+    * [Maximum SubArray](https://github.com/JsAviles/PythonProjects/tree/master/SortingAlgorithms/MaxSubArray)
+    * [Merge Sort vs. Insertion Sort](https://github.com/JsAviles/PythonProjects/tree/master/SortingAlgorithms/Merge_vs_Insertion_sort)
