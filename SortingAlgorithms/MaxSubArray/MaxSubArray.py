@@ -1,8 +1,6 @@
 ###########################################################
-# File: Assignment #2 Question 1
-# Name: Jesus Sebastian Aviles
-# REDID: 823931557
-# Class: CS560 Spring 2021
+# File: Maximum Subarray Brute Force vs. DP solution      #
+# Name: Jesus Sebastian Aviles                            #
 ###########################################################
 
 import random, time
